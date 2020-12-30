@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="729026d6-1d56-4b20-bad7-5a9c83ce2547" name="Default Changelist" comment="" />
+    <list default="true" id="729026d6-1d56-4b20-bad7-5a9c83ce2547" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +32,10 @@
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.2.php">
+    <configuration name="2.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled1/2.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/1.php">
       <CommandLine>
         <PhpTestInterpreterSettings>
@@ -40,6 +46,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.2.php" />
         <item itemvalue="PHP Script.1.php" />
       </list>
     </recent_temporary>
@@ -54,7 +61,7 @@
       <updated>1609283779963</updated>
       <workItem from="1609283781288" duration="2359000" />
       <workItem from="1609343975191" duration="1283000" />
-      <workItem from="1609345936871" duration="1983000" />
+      <workItem from="1609345936871" duration="5838000" />
     </task>
     <servers />
   </component>
