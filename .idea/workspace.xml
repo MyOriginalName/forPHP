@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="729026d6-1d56-4b20-bad7-5a9c83ce2547" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/2.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +35,7 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.2.php">
-    <configuration name="2.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled1/2.php" useBuiltInWebServerPort="true">
+    <configuration name="2.php" type="JavascriptDebugType" temporary="true" uri="http://localhost:63342/untitled1/2.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/1.php">
@@ -43,6 +46,10 @@
       </CommandLine>
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.2.php" />
+      <item itemvalue="PHP Script.1.php" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.2.php" />
@@ -61,6 +68,14 @@
       <workItem from="1609283781288" duration="2359000" />
       <workItem from="1609343975191" duration="1283000" />
       <workItem from="1609345936871" duration="5838000" />
+      <workItem from="1609511733934" duration="2404000" />
+      <workItem from="1609514836659" duration="3126000" />
+      <workItem from="1609767148336" duration="2339000" />
+      <workItem from="1609771301547" duration="598000" />
+      <workItem from="1609777556084" duration="3917000" />
+      <workItem from="1609781739311" duration="6170000" />
+      <workItem from="1609851844705" duration="3118000" />
+      <workItem from="1610536652835" duration="3047000" />
     </task>
     <servers />
   </component>

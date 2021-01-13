@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <title> PHP веб сайт</title>
-</head>
-<body>
 <?php
 //------------------------------------------------Task First-----------------------------------------------------------------
 echo "Task first";
@@ -172,5 +166,3 @@ class F1 extends BaseMath
 $user = new F1(2,1,3);
 echo $user->getValue();
 ?>
-</body>
-</html>

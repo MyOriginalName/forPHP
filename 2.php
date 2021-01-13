@@ -1,6 +1,7 @@
-
 <?php
-    function mySortForKey($a, $b)
+
+//simplexml_load_file('__DIR__\file.xml');
+function mySortForKey($a, $b)
     {
         try {
            foreach($a as $key => $value)
@@ -9,7 +10,7 @@
                 {
                     if(!array_key_exists($b,$value))
                     {
-                        throw new Exception (array_search(next($value), $value));
+                        throw new Exception ($key);
                     }
                 }
             }
@@ -35,6 +36,7 @@
 
     mySortForKey($arr, 'b');
 
+    echo '<br/>';
 
     function  convertString($a, $b)
         {
