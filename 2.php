@@ -1,5 +1,4 @@
 <?php
-//simplexml_load_file('__DIR__\file.xml'); // Комментируем эту строку, так как она закомментирована и не влияет на выполнение кода.
 
 function mySortForKey($a, $b)
 {
